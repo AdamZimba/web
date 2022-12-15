@@ -1,0 +1,11 @@
+.Home > h1{
+    display: flex;
+    color: aqua;
+    align-items: center;
+}
+
+
+
+.home_section{
+    display: flex;
+}

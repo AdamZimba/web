@@ -1,0 +1,25 @@
+.Banner{
+    background: url("https://a0.muscache.com/im/pictures/57e6f1ad-5aa9-4e60-8d98-dbee2c3d6c95.jpg?im_w=1440") center center;
+    height: 50vh;
+    position: relative;
+}
+.banner_info{
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-top: 25vh;
+    padding-bottom: 40px;
+    padding-right: 50px;
+    width: 300px;
+}
+.banner_info > button{
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner_info > button:hover{
+    background-color: white;
+    color: #ff7779;
+}
